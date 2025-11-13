@@ -8,5 +8,12 @@
 <body>
     
     <h1>Ma Page de Base HTML </h1>
+    <p>La chance n'est pas toujours du même côté. Le plus important dans la vie c'est d'être toujours positif. Chacun aura son bonheur. Le meilleur est à venir.</p>
+    <p>Abalo et Afi vont à l'école.</p>
+    <p>Naka mange du riz sans inviter ses amis.</p>
+
+    <a href=" https://google.com">Aller sur google</a>
+    
+    <a href="yendouboamsambiani@gmail.com">envoyer un email à Déborah</a>
 </body>
 </html>
